@@ -1,0 +1,31 @@
+.tooltip {
+  position: absolute;
+  width: 135px;
+  height: 60px;
+  padding: 2px;
+  padding-top: 8px;
+  font: 12px sans-serif;
+  color: white;
+  text-align: center;
+  background: #3f59ee;
+  border: 0;
+  border-radius: 10px;
+}
+
+.axisText {
+  font-family: sans-serif;
+  font-weight: bold;
+  fill: darkgray;
+  text-anchor: middle;
+}
+
+.circle {
+  fill:#3f59ee;
+  opacity: .5;
+  pointer-events: all;
+}
+
+.circleText{
+  font-size:10px;
+}
+
